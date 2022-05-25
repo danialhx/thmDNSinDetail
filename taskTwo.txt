@@ -1,0 +1,16 @@
+Domain Hierarchy
+TLD (Top-Level Domain)
+Second-Level Domain
+Subdomain
+
+
+What is the maximum length of a subdomain?
+63
+
+
+Which of the following characters cannot be used in a subdomain ( 3 b _ - )?
+_
+
+
+What type of TLD is .co.uk?
+ccTLD
